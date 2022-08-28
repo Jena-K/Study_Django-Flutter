@@ -8,3 +8,5 @@ class Todo(models.Model):
     completed = models.BooleanField(default=False)
 
 
+class Solution(models.Model):
+    solution = models.CharField(max_length=150)
