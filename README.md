@@ -13,4 +13,4 @@
 ### 2. Todo, Solution 페이지
 > Todo와 Solution 을 등록 할 수 있고, 목록을 표시해주는 페이지
 >
-<kbd><img src="https://user-images.githubusercontent.com/50435560/188361053-0bd2389e-1528-4d22-8846-bcc45d8d8842.png"></kbd>
+<img src="https://user-images.githubusercontent.com/50435560/188361053-0bd2389e-1528-4d22-8846-bcc45d8d8842.png" border="1px solid red"/>
